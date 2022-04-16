@@ -1,8 +1,5 @@
 # ninja log v5
 5	424	6718307332173984	CMakeFiles/trabajo.dir/main.cpp.obj	cc99f8ec93bc5d4
-425	615	6718307334073959	trabajo.exe	ac9a867e1816a138
-3	230	6718347086443174	build.ninja	acad28889c52c5f5
-0	421	6718347091053172	CMakeFiles/trabajo.dir/Ordenamiento_Burbuja_recursividad.cpp.obj	a1be7c372e064d51
-422	647	6718347093213155	trabajo.exe	3426b3d02021a892
-4	398	6718348275999819	CMakeFiles/trabajo.dir/Ordenamiento_Burbuja_recursividad.cpp.obj	a1be7c372e064d51
 399	565	6718348277636679	trabajo.exe	3426b3d02021a892
+3	230	6718356968111232	build.ninja	acad28889c52c5f5
+4	398	6718348275999819	CMakeFiles/trabajo.dir/Ordenamiento_Burbuja_recursividad.cpp.obj	a1be7c372e064d51
