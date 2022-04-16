@@ -1,0 +1,3 @@
+C:/Users/guiratec/Downloads/Semana2/trabajo/cmake-build-debug/CMakeFiles/trabajo.dir
+C:/Users/guiratec/Downloads/Semana2/trabajo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/guiratec/Downloads/Semana2/trabajo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
